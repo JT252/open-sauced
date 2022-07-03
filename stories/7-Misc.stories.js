@@ -11,7 +11,7 @@ import {Flex} from "../src/styles/Grid";
 import {npm} from "../src/images";
 
 export default {
-  title: "Miscellaneous"
+  title: "Miscellaneous Stories"
 };
 
 export const ProfileAvatar = () => (
